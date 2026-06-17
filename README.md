@@ -81,29 +81,29 @@ There are a total of 100 JAX exercises divided into 10 sets of Jupyter Notebooks
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | WIP | WIP | WIP | WIP |
-| Solutions | WIP | WIP | WIP | WIP |
+| Exercises | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/07_automatic_vectorization_exercises.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F07_automatic_vectorization_exercises.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/07_automatic_vectorization_exercises.ipynb) |
+| Solutions | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/07_automatic_vectorization_solutions.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F07_automatic_vectorization_solutions.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/07_automatic_vectorization_solutions.ipynb) |
 
 #### Set 08 • Pytrees • Intermediate • Exercises 71-80
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | WIP | WIP | WIP | WIP |
-| Solutions | WIP | WIP | WIP | WIP |
+| Exercises | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/08_pytrees_exercises.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F08_pytrees_exercises.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/08_pytrees_exercises.ipynb) |
+| Solutions | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/08_pytrees_solutions.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F08_pytrees_solutions.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/08_pytrees_solutions.ipynb) |
 
 #### Set 09 • Neural Networks • Expert • Exercises 81-90
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | WIP | WIP | WIP | WIP |
-| Solutions | WIP | WIP | WIP | WIP |
+| Exercises | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/09_neural_networks_exercises.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F09_neural_networks_exercises.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/09_neural_networks_exercises.ipynb) |
+| Solutions | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/09_neural_networks_solutions.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F09_neural_networks_solutions.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/09_neural_networks_solutions.ipynb) |
 
 #### Set 10 • Capstone Project • Expert • Exercises 91-100
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | WIP | WIP | WIP | WIP |
-| Solutions | WIP | WIP | WIP | WIP |
+| Exercises | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/10_capstone_project_exercises.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F10_capstone_project_exercises.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/10_capstone_project_exercises.ipynb) |
+| Solutions | [Open in Colab](https://colab.research.google.com/github/vopani/jaxton/blob/main/notebooks/10_capstone_project_solutions.ipynb) | WIP | [Open in Binder](https://mybinder.org/v2/gh/vopani/jaxton/main?filepath=notebooks%2F10_capstone_project_solutions.ipynb) | [Open in GitHub](https://github.com/vopani/jaxton/blob/main/notebooks/10_capstone_project_solutions.ipynb) |
 
 The Jupyter Notebooks can also be run locally by cloning the repo and running on your local jupyter server.
 
